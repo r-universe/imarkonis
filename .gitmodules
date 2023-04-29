@@ -8,3 +8,8 @@
 	url = https://github.com/imarkonis/csa
 	shallow = true
 	registered = true
+[submodule "somspace"]
+	path = somspace
+	url = https://github.com/cran/somspace
+	shallow = true
+	registered = true
