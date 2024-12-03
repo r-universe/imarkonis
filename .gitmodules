@@ -8,3 +8,6 @@
 [submodule "somspace"]
 	path = somspace
 	url = https://github.com/cran/somspace
+[submodule "twc"]
+	path = twc
+	url = https://github.com/imarkonis/twc
