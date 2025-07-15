@@ -7,7 +7,7 @@
 	url = https://github.com/imarkonis/csa
 [submodule "somspace"]
 	path = somspace
-	url = https://github.com/cran/somspace
+	url = https://github.com/imarkonis/somspace
 [submodule "twc"]
 	path = twc
 	url = https://github.com/imarkonis/twc
